@@ -5,5 +5,8 @@ define('CONTROLLERS', APP.'controllers/');
 define('MODELS', APP.'models/');
 define('VIEWS', APP.'views/');
 define('PUBLIC_HTML',  dirname(__FILE__).'/public/');
-
+public function FunctionName($value='')
+{
+  # code...
+}
 ?>
